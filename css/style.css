@@ -9133,7 +9133,7 @@ input.btn-success:focus {
     display: table-cell;
     vertical-align: middle;
     width: 30px;
-    height: 30px !important;
+    height: 100px !important;
     line-height: 1;
     font-size: 14px;
     -webkit-transition: all 0.4s ease;
