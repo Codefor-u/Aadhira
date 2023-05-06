@@ -1,6 +1,6 @@
-# Links | Arturo Urbanos
+# Digital ID
 
-###### Linktree (Arturo's Version)
+###### Code for u
 
 Un directorio de enlaces me parece genial para poder mostrar de un plumazo tus redes y proyectos. Hay empresas que realizan estos servicios (que he usado y probado), pero quería hacerme uno propio inspirándome en Linktree. 
 
